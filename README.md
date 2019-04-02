@@ -1,4 +1,4 @@
-# TestAkna - Luciano Borges
+# Projeto de Teste
 
 Este projeto é referente a um teste usando PHP.
 
