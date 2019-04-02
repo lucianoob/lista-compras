@@ -1,4 +1,4 @@
-# Projeto de Teste
+# Projeto Lista de Compras
 
 Este projeto é referente a um teste usando PHP.
 
